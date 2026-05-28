@@ -39,3 +39,5 @@ This project analyzes 280,000+ credit card transaction records to identify fraud
 - Dashboard design
 - Fraud trend analysis
 - Business intelligence reporting
+## Data Note
+The full Excel workbook is not included due to GitHub file size limits. A smaller sample dataset, SQL queries, screenshots, and dashboard visuals are included to demonstrate the workflow.
