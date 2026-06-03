@@ -79,6 +79,7 @@ Financial fraud is difficult to detect in large transaction datasets because fra
 - Open `fraud_kpi_validation.py` to see the Python validation workflow
 - View dashboard screenshots above — Power BI and Excel dashboards are both included
 - Full 284K-row dataset not included due to GitHub size limits; available on request
+- Power Bi Dashboard link(https://app.powerbi.com/links/qWU690UCks?ctid=7cf1d100-35b0-4cec-a70d-9b8bd80b9ad0&pbi_source=linkShare)
 
 ---
 
